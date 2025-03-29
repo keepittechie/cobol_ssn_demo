@@ -1,0 +1,10 @@
+# Mock data file for COBOL SSN Demo
+# Created by Josh from KeepItTechie
+# Format: SSN,Name,DOB,DateOfDeath
+# Note: Some records intentionally have no DateOfDeath and very old DOBs to simulate over-150-year-olds.
+
+123456789,John Smith,1875-03-15,
+987654321,Mary Jones,1980-07-12,2020-08-01
+112233445,Alice Brown,1890-06-10,
+223344556,James Wilson,1955-01-01,
+334455667,Bob Taylor,2005-04-22,
