@@ -1,4 +1,6 @@
 # COBOL SSN Checker 
+
+---
 ## Simulating Legacy Government System Data Issues 👴🏽📼
 Created by Josh from [KeepItTechie](https://www.keepittechie.com)
 
