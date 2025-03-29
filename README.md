@@ -3,6 +3,8 @@ Created by Josh from [KeepItTechie](https://www.keepittechie.com)
 
 This project is a **COBOL-based demo** that simulates how legacy systems — like those still used by the U.S. Social Security Administration — can contain records of people who appear to be **over 150 years old and still alive**. This often happens due to outdated or incomplete data, not because of widespread fraud.
 
+> ⚠️ **Note:** *All SSN data is fake! Used for educational purposes only.*
+
 🧠 Use this repo to:
 - Understand how COBOL processes data line-by-line
 - See how legacy data issues can be misinterpreted
@@ -88,6 +90,8 @@ SSN,Name,DOB,DateOfDeath
 
 - Leave `DateOfDeath` empty to simulate someone marked alive.
 - DOBs from the 1800s with no death date will be flagged as "alive" and over 150 years old.
+
+> ⚠️ **Note:** *All SSN data is fake! Used for educational purposes only.*
 
 ---
 
