@@ -1,7 +1,4 @@
-# COBOL SSN Checker 
-
----
-## Simulating Legacy Government System Data Issues 👴🏽📼
+# COBOL SSN Checker ## Simulating Legacy Government System Data Issues 👴🏽📼
 Created by Josh from [KeepItTechie](https://www.keepittechie.com)
 
 This project is a **COBOL-based demo** that simulates how legacy systems — like those still used by the U.S. Social Security Administration — can contain records of people who appear to be **over 150 years old and still alive**. This often happens due to outdated or incomplete data, not because of widespread fraud.
