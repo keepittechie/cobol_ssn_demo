@@ -3,8 +3,54 @@
 # Format: SSN,Name,DOB,DateOfDeath
 # Note: Some records intentionally have no DateOfDeath and very old DOBs to simulate over-150-year-olds.
 
-123456789,John Smith,1875-03-15,
-987654321,Mary Jones,1980-07-12,2020-08-01
-112233445,Alice Brown,1890-06-10,
-223344556,James Wilson,1955-01-01,
-334455667,Bob Taylor,2005-04-22,
+818843887,Lucas Brown         ,1904-02-26,          
+649644795,Isabella Johnson    ,1953-11-02,2016-03-25
+111699054,Sophia Davis        ,1919-12-22,1985-01-26
+951677547,Isabella Davis      ,1812-11-11,          
+655451791,Mason Johnson       ,1915-03-20,          
+904981147,Lucas Johnson       ,1830-04-13,1981-12-08
+689330341,Liam Davis          ,1981-07-20,          
+696676011,Noah Rodriguez      ,1827-09-04,1950-12-27
+286333302,Noah Hernandez      ,1988-12-17,          
+126845834,Mia Hernandez       ,1993-03-30,          
+403657259,Olivia Miller       ,1894-04-05,          
+201914646,James Miller        ,1972-07-01,          
+723058118,James Garcia        ,1880-05-17,          
+424475791,Liam Johnson        ,1984-08-24,          
+735772618,Ava Brown           ,1951-01-10,          
+334496606,Noah Wilson         ,1898-08-06,2004-05-07
+359982993,Ethan Johnson       ,1969-11-08,          
+334433364,Elijah Rodriguez    ,1918-01-08,          
+806474584,Mason Rodriguez     ,2000-08-18,          
+949590893,Noah Wilson         ,1910-09-16,2017-05-24
+765782036,Mia Anderson        ,1916-01-19,          
+924817735,Elijah Rodriguez    ,1942-08-25,          
+159274823,James Jones         ,1959-11-07,          
+999159582,Liam Thomas         ,1907-03-22,1981-01-12
+668997999,Olivia Jones        ,1960-09-08,2020-02-19
+729556674,Ava Anderson        ,1875-03-18,          
+657881305,Amelia Hernandez    ,1901-03-26,          
+751187152,Amelia Johnson      ,1926-03-23,          
+825806757,Noah Brown          ,1926-05-20,          
+561731008,Ava Rodriguez       ,1925-07-28,          
+476754408,Sophia Thomas       ,1955-12-13,          
+686364404,Mason Gonzalez      ,1967-04-30,          
+129853884,Ethan Miller        ,2001-09-25,          
+836420521,James Miller        ,1900-01-22,          
+326020133,Noah Jones          ,1863-06-19,          
+349467583,Ethan Hernandez     ,1828-03-24,          
+971429023,Charlotte Williams  ,1843-04-11,          
+707159461,Emma Rodriguez      ,1884-09-22,          
+403529820,Olivia Wilson       ,1849-11-28,          
+430257350,Amelia Lopez        ,1980-05-10,          
+713782047,Noah Garcia         ,1902-09-23,1992-11-10
+457060281,Mia Brown           ,1962-06-02,          
+294403498,Isabella Williams   ,1890-09-02,1999-09-07
+175538846,Noah Rodriguez      ,1984-04-23,          
+400022609,Emma Miller         ,1951-12-05,          
+804689839,James Williams      ,1931-09-03,2013-04-12
+864985307,Elijah Johnson      ,1825-03-08,1907-08-02
+278607519,Ava Johnson         ,1965-04-09,          
+241867428,Elijah Anderson     ,1946-07-16,          
+380139622,Ethan Davis         ,1922-02-04,          
+
